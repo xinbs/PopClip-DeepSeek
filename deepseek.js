@@ -113,6 +113,6 @@ exports.actions = [
         title: "语法",
         after: "preview-result",
         code: grammar,
-        icon: "iconify:material-symbols:grammar"
+        icon: "symbol:checkmark.bubble"
     }
 ];
